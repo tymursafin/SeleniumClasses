@@ -17,7 +17,6 @@ public class DropDownDemo {
         WebElement dropDown = driver.findElement(By.xpath("//select[@id='select-demo']"));
 
         Select select = new Select(dropDown);
-
         //select by index
         select.selectByIndex(5);
         Thread.sleep(3000);

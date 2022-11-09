@@ -35,6 +35,7 @@ public class eBay {
         // click on "Search" button
         driver.findElement(By.cssSelector("input#gh-btn")).click();
         // find WebElement of page title
+
         WebElement title = driver.findElement(By.cssSelector("span.b-pageheader__text"));
         // assign text field of the WebElement to variable
         var titleText = title.getText();

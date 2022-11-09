@@ -13,14 +13,10 @@ S
 ,src/syntaxprojects/basic/SimpleFormDemo.java,f\c\fc2e600fdd31931072f591b8864e6e682c70e69d
 L
 src/Class04/CssSelector.java,2\b\2bf8878c0a307034a1748c1ed9402d43c41c3cdc
-Z
-*src/syntaxprojects/basic/RadioButtons.java,c\6\c6671c3517e7a2b2c198bf14787c04054bbe2d4c
 Q
 !src/Class01/launchingBrowser.java,8\0\80ee07eb12353d36a3e61d0e9da03f52c5e76f29
 O
 src/Class01/MaximizeWindow.java,6\c\6c4d81ad56f26de6ec3c85aaee05014b0036134a
-R
-"src/Class04/AdditionalMethods.java,9\f\9f393b78a169838d84ed297f16d46b843d44a62d
 O
 src/Class01/NavigateMethod.java,1\5\15bb316500267dde8738815576364dc2984f4dbd
 I
@@ -29,3 +25,25 @@ M
 src/Class04/WelcomeAdmin.java,8\0\800f13029803e3507fc3874f514d527e31a38a27
 N
 src/Class04/EmptyPassword.java,9\e\9e9711eb66ceae7363d7a9c7317a2a91fd585075
+I
+src/Class02/FaceBook.java,5\4\54a2c4abca1d58c71e3eb75afe7f1c4086cd70e6
+M
+src/Class04/RadioButtons.java,b\c\bc728587fa3feadd7869dcbaba1f84eb94708e37
+L
+src/Class05/GetAllLinks.java,0\0\007805dfdfd34001d99ae32ca33b9df626faaa47
+Z
+*src/syntaxprojects/basic/RadioButtons.java,c\6\c6671c3517e7a2b2c198bf14787c04054bbe2d4c
+W
+'src/Class05/MultipleSelectDropDown.java,f\6\f6fc69988f5e3e599b38a533fdcb231656b88464
+M
+src/Class05/DropDownDemo.java,8\2\828801a0fa484fba9a198c161ae7dc89865f15f1
+S
+#src/Class05/FacebookSignUpForm.java,7\4\743070401651abc43089d4b2128e79cc7cb32ec0
+R
+"src/Class04/AdditionalMethods.java,9\f\9f393b78a169838d84ed297f16d46b843d44a62d
+E
+src/Class05/eBay.java,9\d\9dc69ebf026cdbc28b3825727c638adb5586d2ff
+C
+SeleniumClasses.iml,2\0\20c9ab8d64398c2ae90c3aa4ae741566c3481535
+M
+src/Class05/CheckBoxDemo.java,9\3\93c54008b99d46e4482970e1a643e550b2e52665
