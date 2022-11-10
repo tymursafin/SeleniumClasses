@@ -9,8 +9,6 @@ J
 src/Class03/XpathDemo.java,d\5\d54b40b38cb7953fae473050fc6137af48d90ba8
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
-\
-,src/syntaxprojects/basic/SimpleFormDemo.java,f\c\fc2e600fdd31931072f591b8864e6e682c70e69d
 L
 src/Class04/CssSelector.java,2\b\2bf8878c0a307034a1748c1ed9402d43c41c3cdc
 Q
@@ -31,8 +29,6 @@ M
 src/Class04/RadioButtons.java,b\c\bc728587fa3feadd7869dcbaba1f84eb94708e37
 L
 src/Class05/GetAllLinks.java,0\0\007805dfdfd34001d99ae32ca33b9df626faaa47
-Z
-*src/syntaxprojects/basic/RadioButtons.java,c\6\c6671c3517e7a2b2c198bf14787c04054bbe2d4c
 W
 'src/Class05/MultipleSelectDropDown.java,f\6\f6fc69988f5e3e599b38a533fdcb231656b88464
 M
@@ -47,3 +43,9 @@ C
 SeleniumClasses.iml,2\0\20c9ab8d64398c2ae90c3aa4ae741566c3481535
 M
 src/Class05/CheckBoxDemo.java,9\3\93c54008b99d46e4482970e1a643e550b2e52665
+F
+src/Class6/Alerts.java,0\c\0c4aacece909a6349bce1013b66c9bc4bea4c2c9
+E
+src/Class6/Hello.java,b\9\b989be231806c3ccca394ba9816df290104c6ef8
+G
+src/Class6/IFrames.java,5\f\5ff2661e77f913f9ce8b8ab6389cc166a390138d

@@ -12,14 +12,12 @@ public class Tickets {
         driver.get("https://www.lufthansa.com");
         driver.manage().window().maximize();
 
-        WebElement cookieaAgrreButton = driver.findElement(By.cssSelector("#cm-acceptAll"));
-        cookieaAgrreButton.click();
+        WebElement cookieAgrreButton = driver.findElement(By.cssSelector("#cm-acceptAll"));
+        cookieAgrreButton.click();
 
         WebElement departureFrom = driver.findElement(By.name("flightQuery.flightSegments[0].originCode"));
-        departureFrom.click();
-        Thread.sleep(2000);
-        WebElement icon = driver.findElement(By.xpath("//i[@class = 'icon lh lh-circle-location']"));
-        icon.click();
+
+
 
 
     }
