@@ -1,0 +1,9 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉòÜò
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ö†Ä
+N	java:S106""9Replace this use of System.out or System.err by a logger.(è‘‰„
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(´«Ù’
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Åµ‡²
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(İÁ“üÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ
