@@ -1,4 +1,4 @@
-package Class08;
+package Class08.HomeWork;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
