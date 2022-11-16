@@ -65,3 +65,11 @@ J
 src/Class07/HomeWork2.java,d\d\dd96dc3c112b7a49ca1f4deefe4f93cf8b17530c
 J
 src/Class07/HomeWork3.java,c\4\c44540d6d2d2262bd95210c1a6c487b860a301f9
+J
+src/Class07/HomeWork1.java,2\f\2f7acd64dd4b717c95291cf6686be74c5a66b1bc
+E
+src/Class07/Wait.java,9\0\90b2dd5a0f09a3a425200cdd589c6f9c17fddd69
+N
+src/Class08/WaitAlertDemo.java,e\0\e0af30cb1e0b5281b3d052499d9fce1fa36968d3
+L
+src/Class08/TableBasics.java,c\d\cd8fcda52a1ebe6becf05a91063999810a029f87
