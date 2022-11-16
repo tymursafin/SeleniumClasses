@@ -62,6 +62,6 @@ P
 N
 src/Class07/ImplicitWaits.java,9\1\91af91676653ffb51507bb79292e6026d98e801d
 J
-src/Class07/HomeWork1.java,2\f\2f7acd64dd4b717c95291cf6686be74c5a66b1bc
-E
-src/Class07/Wait.java,9\0\90b2dd5a0f09a3a425200cdd589c6f9c17fddd69
+src/Class07/HomeWork2.java,d\d\dd96dc3c112b7a49ca1f4deefe4f93cf8b17530c
+J
+src/Class07/HomeWork3.java,c\4\c44540d6d2d2262bd95210c1a6c487b860a301f9
