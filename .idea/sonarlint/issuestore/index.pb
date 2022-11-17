@@ -43,12 +43,6 @@ C
 SeleniumClasses.iml,2\0\20c9ab8d64398c2ae90c3aa4ae741566c3481535
 M
 src/Class05/CheckBoxDemo.java,9\3\93c54008b99d46e4482970e1a643e550b2e52665
-F
-src/Class6/Alerts.java,0\c\0c4aacece909a6349bce1013b66c9bc4bea4c2c9
-E
-src/Class6/Hello.java,b\9\b989be231806c3ccca394ba9816df290104c6ef8
-G
-src/Class6/IFrames.java,5\f\5ff2661e77f913f9ce8b8ab6389cc166a390138d
 \
 ,src/syntaxprojects/basic/SimpleFormDemo.java,f\c\fc2e600fdd31931072f591b8864e6e682c70e69d
 ^
@@ -75,3 +69,15 @@ L
 src/Class08/TableBasics.java,c\d\cd8fcda52a1ebe6becf05a91063999810a029f87
 K
 src/Class08/WaitsDemo1.java,8\d\8d979ac4ba67d2d50af2adadc0cffeed728dcc6a
+K
+src/class08/WaitsDemo1.java,8\8\8858213bed8a77d29e70fe21985eda9b8d65ea5d
+W
+'src/class08/HomeWork/WaitsHomeWork.java,0\6\069028c42378fee7a25e5678d97646e4d202e1cf
+K
+src/utils/ConfigReader.java,f\7\f7e209650b7169d15b473d1daa5c73d688afc63a
+F
+Data/config.properties,e\4\e43bf5cced8928d6c630f6f403e7cf12ac5561af
+N
+src/class09/DynamicTables.java,4\a\4a75aaa5f41eeac926df43bb7d53a231569be828
+L
+src/class08/TableBasics.java,1\2\1204f306297636aec3e846857aebb17f4b72225b
