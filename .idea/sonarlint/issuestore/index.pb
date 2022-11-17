@@ -73,3 +73,5 @@ N
 src/Class08/WaitAlertDemo.java,e\0\e0af30cb1e0b5281b3d052499d9fce1fa36968d3
 L
 src/Class08/TableBasics.java,c\d\cd8fcda52a1ebe6becf05a91063999810a029f87
+K
+src/Class08/WaitsDemo1.java,8\d\8d979ac4ba67d2d50af2adadc0cffeed728dcc6a
