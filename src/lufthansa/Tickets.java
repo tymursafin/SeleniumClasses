@@ -16,9 +16,5 @@ public class Tickets {
         cookieAgrreButton.click();
 
         WebElement departureFrom = driver.findElement(By.name("flightQuery.flightSegments[0].originCode"));
-
-
-
-
     }
 }

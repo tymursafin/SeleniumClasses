@@ -36,12 +36,12 @@ public class WaitsHomeWork {
         enableBtn.click();
 
         // verify the textbox is enabled
-        WebDriverWait wait1 = new WebDriverWait(driver, 20);
-        wait1.until(ExpectedConditions.elementToBeClickable(By.xpath("//input[@type = 'text']")));
+        //WebDriverWait wait1 = new WebDriverWait(driver, 20);
+        //wait1.until(ExpectedConditions.elementToBeClickable(By.xpath("//input[@type = 'text']")));
 
-        WebElement textBox = driver.findElement(By.xpath("//input[@type = 'text']"));
-        boolean textBoxStatus1 = textBox.isEnabled();
-        System.out.println("Texbox is enabled :: " + textBoxStatus1);
+        WebElement textBox = driver.findElement(By.xpath("//input[@type='text']"));
+        //boolean textBoxStatus1 = textBox.isEnabled();
+        //System.out.println("Texbox is enabled :: " + textBoxStatus1);
 
         // enter text
         textBox.sendKeys("Abracadabra");

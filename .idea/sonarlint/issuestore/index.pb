@@ -69,15 +69,17 @@ L
 src/Class08/TableBasics.java,c\d\cd8fcda52a1ebe6becf05a91063999810a029f87
 K
 src/Class08/WaitsDemo1.java,8\d\8d979ac4ba67d2d50af2adadc0cffeed728dcc6a
-K
-src/class08/WaitsDemo1.java,8\8\8858213bed8a77d29e70fe21985eda9b8d65ea5d
-W
-'src/class08/HomeWork/WaitsHomeWork.java,0\6\069028c42378fee7a25e5678d97646e4d202e1cf
-K
-src/utils/ConfigReader.java,f\7\f7e209650b7169d15b473d1daa5c73d688afc63a
-F
-Data/config.properties,e\4\e43bf5cced8928d6c630f6f403e7cf12ac5561af
-N
-src/class09/DynamicTables.java,4\a\4a75aaa5f41eeac926df43bb7d53a231569be828
 L
 src/class08/TableBasics.java,1\2\1204f306297636aec3e846857aebb17f4b72225b
+N
+src/class08/WaitAlertDemo.java,8\6\860044a951bdf3e48c84244ecccec6fe199cc71e
+W
+'src/class08/HomeWork/WaitsHomeWork.java,0\6\069028c42378fee7a25e5678d97646e4d202e1cf
+J
+src/lufthansa/Tickets.java,d\7\d79cda85d3a09d4abe9a6d162481617ed2bb2125
+Z
+*src/class09/HomeWork/EmployeeCheckBox.java,3\a\3acecbbaaca28af5d95390f9e80a44c686b145de
+K
+src/class08/WaitsDemo1.java,8\8\8858213bed8a77d29e70fe21985eda9b8d65ea5d
+P
+ src/class10/TablePagination.java,4\9\497b5b4642be6242d8b34c6e103c513e9a5df712

@@ -40,7 +40,7 @@ public class EmployeeCheckBox {
             boolean targetId = employeeId.get(i).getText().contains(properties.getProperty("employeeId"));
             if (targetId) {
                 int rowNum = i + 1;
-                WebElement chackbox = driver.findElement(By.xpath("//table[@class = 'table hover']/tbody/tr[" + rowNum + "]/td[2]"));
+                WebElement chackbox = driver.findElement(By.xpath("//table[@class = 'table hover']/tbody/tr[" + rowNum + "]/td[1]"));
                 chackbox.click();
             }
         }
