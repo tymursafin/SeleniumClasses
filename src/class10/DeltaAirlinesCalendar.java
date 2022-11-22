@@ -2,15 +2,16 @@ package class10;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import utils.ManageBrowser;
+import utils.BrowserManager;
 
 import java.util.List;
 
-import static utils.ManageBrowser.driver;
+import static utils.BrowserManager.driver;
+
 
 public class DeltaAirlinesCalendar {
     public static void main(String[] args) {
-        ManageBrowser.chrome("https://www.delta.com/");
+        BrowserManager.chrome("https://www.delta.com/");
 
         driver.findElement(By.xpath("//span[@class='calenderDepartSpan']")).click();
 
@@ -41,7 +42,7 @@ public class DeltaAirlinesCalendar {
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
-        ManageBrowser.closeBrowser();
+        BrowserManager.closeBrowser();
     }
 }
 

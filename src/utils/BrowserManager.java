@@ -6,7 +6,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.util.concurrent.TimeUnit;
 
-public class ManageBrowser {
+public class BrowserManager {
 
     public static WebDriver driver;
 
@@ -27,5 +27,4 @@ public class ManageBrowser {
     }
 
     public static void closeBrowser() {driver.quit();}
-
 }
