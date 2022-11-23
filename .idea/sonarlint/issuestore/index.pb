@@ -89,3 +89,9 @@ E
 src/TestingClass.java,2\6\26f957450fd08faabd99f7cd25e0cadc71e96883
 J
 src/lufthansa/Tickets.java,d\7\d79cda85d3a09d4abe9a6d162481617ed2bb2125
+K
+src/utils/ConfigReader.java,f\7\f7e209650b7169d15b473d1daa5c73d688afc63a
+Z
+*src/class09/HomeWork/EmployeeCheckBox.java,3\a\3acecbbaaca28af5d95390f9e80a44c686b145de
+M
+src/class05/DropDownDemo.java,0\d\0dc9d41df06a720482a19f20261343192173fd84

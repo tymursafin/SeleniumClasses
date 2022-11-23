@@ -32,21 +32,35 @@ public class SyntaxHRCalendar {
         WebElement calendarBtn = driver.findElement(By.xpath("//input[@id='candidateSearch_fromDate']"));
         calendarBtn.click();
 
-        WebElement monthDropdown = driver.findElement(By.xpath("//select[@class='ui-datepicker-month']"));
-        Select selectMonth = new Select(monthDropdown);
-        selectMonth.selectByVisibleText("Aug");
+        String MM = null;
+        List<WebElement> months = driver.findElements(By.xpath("//select[@class='ui-datepicker-month']/option"));
+        for (WebElement month: months){
+            MM = month.getText();
+            if(MM.equals("Aug")){
+                month.click();
+                break;
+            }
+        }
 
-        WebElement yearDropdown = driver.findElement(By.xpath("//select[@class='ui-datepicker-year']"));
-        Select selectYear = new Select(yearDropdown);
-        selectYear.selectByVisibleText("2023");
+        String YYYY = null;
+        List<WebElement> years = driver.findElements(By.xpath("//select[@class='ui-datepicker-year']/option"));
+        for(WebElement year:years){
+            YYYY = year.getText();
+            if(YYYY.equals("2023")){
+                year.click();
+                break;
+            }
+        }
 
+        String DD = null;
         List<WebElement> dates = driver.findElements(By.xpath("//table[@class='ui-datepicker-calendar']/tbody/tr/td"));
         for(WebElement date:dates){
-            String targetDate = date.getText();
-            if(targetDate.equals("8")){
+            DD = date.getText();
+            if(DD.equals("8")){
                 date.click();
                 break;
             }
         }
+        System.out.println("Date selected: " + YYYY + "-" + MM + "-" + DD );
     }
 }
