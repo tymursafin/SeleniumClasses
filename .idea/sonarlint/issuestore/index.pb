@@ -95,3 +95,15 @@ Z
 *src/class09/HomeWork/EmployeeCheckBox.java,3\a\3acecbbaaca28af5d95390f9e80a44c686b145de
 M
 src/class05/DropDownDemo.java,0\d\0dc9d41df06a720482a19f20261343192173fd84
+L
+src/class11/DragAndDrop.java,6\8\6872dbe1f67e4e2edfe34d37f513e3339a198ccd
+M
+src/class11/ActionsClass.java,4\3\430860c601643688cbeb34787edf6632695eb088
+Q
+!src/class11/ActionsClassDemo.java,f\9\f90f08e73b63022b4ff02e48fc25a1bd2d780f36
+J
+src/class11/KeysUsage.java,1\a\1a928bfe28c28661524745cdc0fe547ebe5c1269
+Z
+*src/class10/homeWork/SyntaxHRCalendar.java,3\3\33280a4b2c908150b8921a62d49bd2b353583a61
+M
+src/utils/BrowserManager.java,6\c\6c1a3a976c0895d1a01df0ed7332f2789fc63d4b
